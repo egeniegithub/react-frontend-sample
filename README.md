@@ -1,2 +1,1 @@
-# myWinsomeProject
-This is a school management system and also CMS
+# react-frontend-sample
